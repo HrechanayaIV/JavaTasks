@@ -21,7 +21,7 @@ public class MatrixTask1 {
 
     }
 
-    public static int[][] sortAVG(int[][] a) {
+    private static int[][] sortAVG(int[][] a) {
         int rows = a.length;
         int columns = a[0].length;
         for (int k = 0; k < columns - 1; k++) {
