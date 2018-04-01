@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8af747f-5c7e-4da9-ba13-8d3b31941bda" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/TestRun.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/command/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/command/CookAustralianSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/command/CookSummerSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/command/CookVitaminSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/command/ManagerCommands.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/controller/IngredientController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/controller/MainController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/Builder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/chef/Chef.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/chef/InnaChef.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/BrusselsSavoy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Cabbage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Cucumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Ingredient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Pepper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Potatoes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/Tomato.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/ingredient/VegetableType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/salad/AustralianSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/salad/Salad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/salad/SummerSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/entity/salad/VitaminSalad.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/service/CommandService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/service/Filter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/service/IngredientFilterImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/service/SaladService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/task3/salad/service/SaladServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -67,16 +39,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CookVitaminSalad.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CookVitaminSalad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task3/salad/command/CookVitaminSalad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="441">
+              <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#281#282#0" expanded="true" />
                 <element signature="e#329#330#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/task1/task11/model/CShip.java" />
         <option value="$PROJECT_DIR$/src/task1/task11/controller/ListCreator.java" />
         <option value="$PROJECT_DIR$/src/task1/task11/controller/VehicleFilter.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/task3/salad/Vegetable.java" />
         <option value="$PROJECT_DIR$/src/task3/salad/entity/Vegetable.java" />
         <option value="$PROJECT_DIR$/src/task3/salad/entity/Builder.java" />
@@ -200,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/task3/salad/command/CookAustralianSalad.java" />
         <option value="$PROJECT_DIR$/src/task3/salad/command/CookSummerSalad.java" />
         <option value="$PROJECT_DIR$/src/task3/salad/command/CookVitaminSalad.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -517,12 +499,12 @@
       <workItem from="1521400242242" duration="14016000" />
       <workItem from="1521582007770" duration="642000" />
       <workItem from="1521708280453" duration="28297000" />
-      <workItem from="1522504671449" duration="21494000" />
+      <workItem from="1522504671449" duration="21926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104607000" />
+    <option name="totallyTimeSpent" value="105039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="753" y="5" width="1161" height="1038" extended-state="0" />
@@ -730,13 +712,6 @@
             <element signature="e#1864#1865#0" expanded="false" />
             <element signature="e#1927#1928#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1102,13 +1077,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task3/salad/command/CookVitaminSalad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="441">
+          <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
